@@ -1,0 +1,8 @@
+# 需求文档
+闪记工具-AHK方案.md
+
+# 编译产物
+FlashNote.exe
+
+# 运行时配置（包含用户路径，不提交）
+config.ini
